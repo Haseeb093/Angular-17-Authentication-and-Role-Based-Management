@@ -29,7 +29,7 @@ Clone the repository:
 
 sh
 Copy code
-git clone https://github.com/Haseeb093/Angular-17-Authentication-and-Role-Managment.git
+git clone [https://github.com/Haseeb093/Angular-17-Authentication-and-Role-Managment.git](https://github.com/Haseeb093/Angular-17-Authentication-and-Role-Based-Management.git)
 cd angular-17-auth-role-management
 Install dependencies:
 
